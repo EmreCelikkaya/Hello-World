@@ -1,14 +1,7 @@
-1. Java Springboot Hello Word projesinin source kodları hazırlandı ve Github'a gönderildi
-2. Docker image oluşturmak için Dockerfile yazıldı.
-3. Kubernetes manifesto dosyaları olan deployment.yaml, service.yaml ve ingress.yaml oluşturuldu.
-4. AWS 'de Jenkins Server oluşturuldu.
-5. Jenkins 'e docker,github ve maven pluginleri eklendi.
-6. Kubernetes manifosta dosyalarını EKS'ye deploy edebilmek için kubctl ve eksctl yüklendi.
-7. Jenkins Pipeline oluşturuldu ve webhooks bağlantısı sağlandı.
-
-
-
-
-
-
-
+1. The source codes of the Java Springboot Hello Word project were prepared and pushed to Github
+2. Dockerfile was written to create a Docker image.
+3. Created Kubernetes manifest files: deployment.yaml, service.yaml and ingress.yaml.
+4. Created Jenkins Server on AWS.
+5. Added docker, github and maven plugins to Jenkins.
+6. Installed kubctl and eksctl to deploy Kubernetes manifest files to EKS.
+7. Jenkins Pipeline created and webhooks connection provided.
